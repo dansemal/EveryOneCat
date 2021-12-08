@@ -59,7 +59,7 @@
 
 |                                      链接                                      |                                      预览                                       |
 | :----------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
-| [everyonecat1](https://github.com/dansemal/meme/tree/master/doc/everyonecat1.md) | ![嗯嗯](https://cdn.jsdelivr.net/gh/dansemal/meme@master/everyonecat1/agree.png) |
+| [everyonecat1](https://github.com/dansemal/meme/tree/master/doc/everyonecat1.md) | ![嗯嗯](https://cdn.jsdelivr.net/gh/dansemal/meme@master/everyonecat1/嗯嗯.png) |
 
 ### 免责声明
 
