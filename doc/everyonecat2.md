@@ -20,6 +20,7 @@
 "烤红薯": "everyonecat2/cat2_烤红薯.gif",
 "练单杠": "everyonecat2/cat2_练单杠.gif",
 "撒花": "everyonecat2/cat2_撒花.gif",
+"戳戳": "everyonecat2/cat2_戳戳.gif",
 "十分快乐": "everyonecat2/cat2_十分快乐.gif",
 "手牵手": "everyonecat2/cat2_手牵手.gif",
 "摊": "everyonecat2/cat2_摊.gif",
